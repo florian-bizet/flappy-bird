@@ -1,0 +1,1 @@
+void Reset(App *app, Bird *bird, PipeList *list, Menu *menu);

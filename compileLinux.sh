@@ -1,0 +1,1 @@
+gcc Main.c classes/*.c -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -lm -o Project
